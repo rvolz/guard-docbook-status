@@ -1,0 +1,7 @@
+*.*~
+coverage
+rdoc
+doc
+pkg
+#*.*
+/test/.DS_Store

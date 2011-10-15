@@ -1,0 +1,3 @@
+guard 'docbook-status', :cli => '--remarks myproject.xml' do
+  watch(/.+\.xml$/i)
+end

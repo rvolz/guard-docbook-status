@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<book xmlns="http://docbook.org/ns/docbook"
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	version="5.0">
+  <title>B1</title>
+  <chapter>
+    <title>C1</title>
+    <para>
+       Dies ist ein Test .. Dies ist ein  Test.
+       In den Jahren 1900-1901 geschahen viele Überfälle von O`Reillys.
+    </para>
+  </chapter>
+  <xi:include href="chapter2xi.xml"/>
+  <xi:include href="chapter3xi.xml"/>
+  <xi:include href="c4/chapter4xi.xml"/>
+</book>

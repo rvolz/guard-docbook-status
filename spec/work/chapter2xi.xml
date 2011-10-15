@@ -1,0 +1,11 @@
+<chapter xmlns="http://docbook.org/ns/docbook"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+           version="5.0">
+  <title>C2</title>
+  <para>
+    Dies ist ein Test .. Dies ist ein  Test.
+    In den Jahren 1900-1901 geschahen viele Überfälle von O`Reillys.
+    <remark>FIXME Ausbauen.</remark>
+  </para>
+  <xi:include href="section1xi.xml"/>
+</chapter>
