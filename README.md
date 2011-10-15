@@ -1,12 +1,14 @@
 guard-docbook-status
 ===========
 
-The docbook-status guard will watch your DocBook documents and check their status when they change. It is meant to work with the _docbook_status_ utility, see https://github.com/rvolz/docbook_status
+The docbook-status guard will watch your DocBook documents and check
+their status when they change. It is meant to work with the
+'docbook_status'  utility, see https://github.com/rvolz/docbook_status
 
 Usage
 --------
 
-See the "Guard documentation":https://github.com/guard/guard#readme for general instructions.
+See the [Guard documentation](https://github.com/guard/guard#readme) for general instructions.
 
 To start with this add-on, create your Guardfile with:
 
@@ -26,7 +28,7 @@ To adapt the Guardfile to your requirements:
 Install
 -------
 
-Since you are reading this, it is assumed that you have docbook_status already installed. Since this is a Guard add-on, you'll need also Guard:https://github.com/guard/guard to be installed. 
+Since you are reading this, it is assumed that you have docbook_status already installed. Since this is a Guard add-on, you'll need also [Guard](https://github.com/guard/guard) to be installed. 
 
 Then install this add-on with
 
