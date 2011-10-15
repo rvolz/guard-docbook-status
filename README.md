@@ -28,7 +28,7 @@ To adapt the Guardfile to your requirements:
 Install
 -------
 
-Since you are reading this, it is assumed that you have docbook_status already installed. Since this is a Guard add-on, you'll need also [Guard](https://github.com/guard/guard) to be installed. 
+Since you are reading this, it is assumed that you have [docbook_status](https://github.com/rvolz/docbook_status) already installed. Since this is a Guard add-on, you'll need also [Guard](https://github.com/guard/guard) to be installed. 
 
 Then install this add-on with
 
