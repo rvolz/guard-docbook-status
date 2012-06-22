@@ -1,3 +1,7 @@
+== 0.2.0 / 2012-06-22
+
+* Compatibility changes for Guard 1.1
+
 == 0.1.0 / 2011-10-15
 
 * first release
