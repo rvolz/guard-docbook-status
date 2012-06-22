@@ -4,4 +4,5 @@ rdoc
 doc
 pkg
 #*.*
-/test/.DS_Store
+.DS_Store
+spec/work/*.*

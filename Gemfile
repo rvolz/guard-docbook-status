@@ -1,10 +1,9 @@
 source "http://rubygems.org"
-gem "guard"
-gem "docbook_status"
+gem "guard", ">=1.1"
+gem "docbook_status", ">=0.5.0"
 
 group :development do
   gem "bones"
-  gem "guard"
   gem "rspec"
   gem 'rb-fsevent'
   gem 'growl_notify'
